@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a Senior Android Engineer at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built the Swachhata-MoHUA Android App. Also I am responsible for developing the Swachhata-MoHUA Android app.
+Currently as Team Head and Senior Android Engineer at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built Android Apps such as Swachhata-MoHUA, Ama Sahara, IChangeMyCity, Public Eye- The Official BTP.
 
 See all the apps i developed [Click here](https://play.google.com/store/apps/developer?id=Janaagraha)
 
