@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Currently as Team Head and Senior Android Engineer at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built Android Apps such as Swachhata-MoHUA, Ama Sahara, IChangeMyCity, Public Eye- The Official BTP.
+Currently as Senior Android Engineer at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built Android Apps such as Swachhata-MoHUA, Ama Sahara, IChangeMyCity, Public Eye- The Official BTP.
 
 See all the apps i developed [Click here](https://play.google.com/store/apps/developer?id=Janaagraha)
 
-- 🔭 I’m currently working on Swachhata-MoHUA Android App
+- 🔭 I’m currently working on iChangeMyCity App
 
 <!--- 
 - 👯 I’m looking to collaborate on ...
